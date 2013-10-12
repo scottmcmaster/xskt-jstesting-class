@@ -1,0 +1,3 @@
+To run:
+
+karma start
